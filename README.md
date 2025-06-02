@@ -1,6 +1,6 @@
 # TransMedia Assignment
 
-This project uses **Selenium** and **Chrome WebDriver** for Test Automation.
+This project uses **Selenium**,**Python**,**Chrome** and **Chrome WebDriver** for Test Automation.
 
 ## Requirements
 
