@@ -1,4 +1,4 @@
-# Selenium Automation with Chrome WebDriver
+# TransMedia Assignment
 
 This project uses **Selenium** and **Chrome WebDriver** for Test Automation.
 
