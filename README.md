@@ -4,26 +4,26 @@
 
 This project uses **Selenium**,**Python**,**Chrome** and **Chrome WebDriver** for Test Automation.
 
-## Requirements
+### Requirements
 
 - Python
 - Google Chrome (latest recommended)
 - ChromeDriver (compatible with your Chrome version)
 - Selenium
 
-## Setup Instructions
+### Setup Instructions
 
 1. Clone the repository
 2. Install dependencies
 3. Download ChromeDriver
 
-## Note: Make sure to update the script with the correct ChromeDriver path in run.py file from Main directory
+### Note: Make sure to update the script with the correct ChromeDriver path in run.py file from Main directory
 
 
 
 ## API Automation
 
-## Setup Instructions
+### Setup Instructions
 
 1. Open Postman
 2. Click "Import" in the top left corner
